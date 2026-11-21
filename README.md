@@ -2,7 +2,7 @@
 
 **Matière :** Développement d'applications réparties
 **Auditoire :** LSI3
-**Étudiant :** Nom Prénom
+**Étudiant :** Abdelkefi Omar
 
 ## Structure du projet
 
